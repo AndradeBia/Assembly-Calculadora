@@ -138,7 +138,7 @@
 
 ---
 
-##Grupo
+## Grupo
 - Amanda Silveira
 - Bianca Andrade
 - Eduardo Marras
